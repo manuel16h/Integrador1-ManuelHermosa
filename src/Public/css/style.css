@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+
+.input-text{
+    display: flex;
+    margin: 5px;
+}
+
+#info-crearProducto {
+    color:green
+}
+
+#info-eliminarProducto{
+    color: red;
+}

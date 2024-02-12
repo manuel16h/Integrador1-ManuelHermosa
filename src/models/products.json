@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Calefactor Solar",
+        "description": "Esta es la descripcion del producto",
+        "price": 200,
+        "thumbail": "Sin imagen",
+        "code": "abc01",
+        "stock": 75,
+        "id": "PB4cXoPJ7MTRVA6iM1ytF"
+    },
+    {
+        "title": "Estufa Electrica",
+        "description": "Esta es la descripcion del producto",
+        "price": 240,
+        "thumbail": "Sin imagen",
+        "code": "abc02",
+        "stock": 75,
+        "id": "TMuQypvRPOOFM0Qq2OSYP"
+    },
+    {
+        "title": "Microondas Panasonic",
+        "description": "Esta es la descripcion del producto",
+        "price": 150,
+        "thumbail": "Sin imagen",
+        "code": "abc03",
+        "stock": 50,
+        "id": "TQHJhEZVMd8_HBTms8aKm"
+    },
+    {
+        "title": "Tostadora Philips",
+        "description": "Esta es la descripcion del producto",
+        "price": 120,
+        "thumbail": "Sin imagen",
+        "code": "abc04",
+        "stock": 70,
+        "id": "JgClRBOB2tw4Zwa0Bp4xB"
+    },
+    {
+        "title": "Heladera familiar Sony",
+        "description": "Esta es la descripcion del producto",
+        "price": 520,
+        "thumbail": "Sin imagen",
+        "code": "abc06",
+        "stock": 15,
+        "id": "5z63MtzXAl-TdtckHaJZS"
+    },
+    {
+        "title": "Minipimer Liliana",
+        "description": "Esta es la descripcion del producto",
+        "price": 70,
+        "thumbail": "Sin imagen",
+        "code": "abc08",
+        "stock": 33,
+        "id": "S2v0rWM_On03kMG--DJZ_"
+    },
+    {
+        "title": "Cafetera",
+        "description": "Sin descripcion",
+        "price": 33,
+        "thumbail": "sin imagen",
+        "code": "mkh-gi",
+        "stock": 5,
+        "id": "c5JTLowJTd9YOadnvDu4q"
+    }
+]

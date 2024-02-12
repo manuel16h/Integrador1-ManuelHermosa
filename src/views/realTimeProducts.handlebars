@@ -1,0 +1,30 @@
+<h1>LISTADO DE PRODUCTOS EN TIEMPO REAL</h1>
+
+<h2>Productos:</h2>
+
+<ul id="productsList">
+    {{#each allProducts}}
+        <li>
+            {{this.title}} - USD {{this.price}} - Id: {{this.id}}
+        </li>
+    {{/each}}
+</ul>
+
+<h2>Crear producto:</h2>
+
+<form action="">
+    <input class="input-text" type="text" id="title" placeholder="Titulo">
+    <input class="input-text" type="text" id="description" placeholder="Descripcion">
+    <input class="input-text" type="text" id="price" placeholder="Precio">
+    <input class="input-text" type="text" id="thumbail" placeholder="Imagen">
+    <input class="input-text" type="text" id="code" placeholder="SKU">
+    <input class="input-text" type="text" id="stock" placeholder="Stock">
+    
+    <button type="button" id="buttonCrearProducto">Crear producto</button>
+    <p id="info-crearProducto"></p>
+</form>
+
+<h2>Eliminar producto:</h2>
+<input type="text" id="idProduct" placeholder="ID del producto">
+<button type="button" id="buttonDeleteProduct">Eliminar producto</button>
+<p id="info-eliminarProducto"></p>
